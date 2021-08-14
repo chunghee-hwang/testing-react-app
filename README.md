@@ -15,3 +15,6 @@ a 입력
 
 ![img](./screenshot.png)
 
+## 사용 라이브러리
+- @testing-library/react
+- react-test-renderer
